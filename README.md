@@ -1,5 +1,5 @@
 # Thesis
-n the realm of software development
+In the realm of software development
 and maintenance, the manual linking of
 software feature documents to code com-
 ponents is a critical yet challenging task
@@ -56,4 +56,3 @@ ing key challenges, and paving the way
 for more accurate, cost-effective, and effi-
 cient practices in software development and
 maintenance.
-vii
